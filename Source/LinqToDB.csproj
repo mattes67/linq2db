@@ -56,6 +56,13 @@
   <ItemGroup>
     <Compile Include="DataProvider\Access\AccessTools.cs" />
     <Compile Include="DataProvider\Access\AccessSqlOptimizer.cs" />
+    <Compile Include="DataProvider\DB2i\DB2iDataProvider.cs" />
+    <Compile Include="DataProvider\DB2i\DB2iFactory.cs" />
+    <Compile Include="DataProvider\DB2i\DB2iMappingSchema.cs" />
+    <Compile Include="DataProvider\DB2i\DB2iSchemaProvider.cs" />
+    <Compile Include="DataProvider\DB2i\DB2iSqlBuilder.cs" />
+    <Compile Include="DataProvider\DB2i\DB2iSqlOptimizer.cs" />
+    <Compile Include="DataProvider\DB2i\DB2iTools.cs" />
     <Compile Include="DataProvider\DB2\DB2LUWSchemaProvider.cs" />
     <Compile Include="DataProvider\DB2\DB2LUWSqlBuilder.cs" />
     <Compile Include="DataProvider\DB2\DB2SqlOptimizer.cs" />

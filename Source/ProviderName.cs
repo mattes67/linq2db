@@ -8,6 +8,7 @@ namespace LinqToDB
 		public const string DB2           = "DB2";
 		public const string DB2LUW        = "DB2.LUW";
 		public const string DB2zOS        = "DB2.z/OS";
+        public const string DB2i = "DB2i";
 		public const string Firebird      = "Firebird";
 		public const string Informix      = "Informix";
 		public const string SqlServer     = "SqlServer";
